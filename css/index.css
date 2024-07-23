@@ -39,6 +39,6 @@ a:link {
 
 @font-face {
     font-family: "SourceCodePro";
-    src: URL("../resources/fonts/SourceCodePro-Italic-VariableFont_wght.ttf")
+    src: URL("../resources/fonts/SourceCodePro-VariableFont_wght.ttf")
         format("truetype");
 }
