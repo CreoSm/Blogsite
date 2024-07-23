@@ -1,0 +1,42 @@
+html,
+body {
+    font-size: 23px;
+    font-family: "SourceCodePro";
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+a:link {
+    color: black;
+    background-color: white;
+}
+
+#pcontainer {
+    padding-left: 3%;
+}
+
+#content-container {
+    overflow: hidden;
+    padding: 0px 2%;
+}
+
+#BlogContainer {
+    padding-left: 3%;
+}
+
+#BlogPost {
+    overflow: hidden;
+    padding: 0px 2%;
+    h1 {
+        text-decoration: underline;
+    }
+    div {
+        padding-left: 3%;
+    }
+}
+
+@font-face {
+    font-family: "SourceCodePro";
+    src: URL("../resources/fonts/SourceCodePro-Italic-VariableFont_wght.ttf")
+        format("truetype");
+}
